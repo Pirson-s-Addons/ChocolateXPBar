@@ -1,0 +1,123 @@
+## Interface: 120001, 120005, 120007, 120100, 120105, 120107
+## Version: 1.00
+## Author: Pirson
+## IconTexture: Interface\AddOns\ChocolateXPBar\img\logo_cxb_icon
+## Title: |cffd597ffChocolate XP Bar|r
+
+# https://warcraft.wiki.gg/wiki/Addon_Categories
+## Category: Quests & Leveling
+## Category-deDE: Quests & Stufenaufstieg
+## Category-esES: Misiones y subida de nivel
+## Category-esMX: Misiones y subida de nivel
+## Category-frFR: Quêtes et progression
+## Category-itIT: Missioni e livellamento
+## Category-koKR: 퀘스트 및 레벨업
+## Category-ptBR: Missões e evolução
+## Category-ruRU: Задания и прокачка
+## Category-zhCN: 任务与升级
+## Category-zhTW: 任務與升級
+## Category-plPL: Zadania i rozwój postaci
+## Category-svSE: Uppdrag och levling
+## Category-noNO: Oppdrag og nivåøkning
+## Category-csCZ: Úkoly a levelování
+## Category-nlNL: Quests en levelen
+## Category-roRO: Misiuni și avansare
+## Category-huHU: Küldetések és szintlépés
+## Category-elGR: Αποστολές και ανέβασμα επιπέδου
+## Category-ukUA: Завдання й прокачування
+## Category-daDK: Quests og levelering
+## Category-fiFI: Tehtävät ja tasonnousu
+## Category-skSK: Úlohy a levelovanie
+## Category-bgBG: Задачи и качване на нива
+## Category-hrHR: Zadaci i napredovanje
+## Category-srRS: Zadaci i napredovanje
+## Category-slSI: Naloge in napredovanje
+## Category-ltLT: Užduotys ir lygių kėlimas
+## Category-lvLV: Uzdevumi un līmeņu celšana
+## Category-etEE: Ülesanded ja tasemetõus
+## Category-idID: Misi dan naik level
+## Category-msMY: Misi dan naik tahap
+## Category-faIR: مأموریت‌ها و ارتقای سطح
+## Category-heIL: משימות ועליית רמות
+## Category-bnBD: কোয়েস্ট ও লেভেলিং
+## Category-urPK: کوئسٹس اور لیولنگ
+## Category-taIN: பணிகள் மற்றும் நிலை உயர்வு
+## Category-teIN: క్వెస్ట్‌లు మరియు లెవలింగ్
+## Category-trTR: Görevler ve seviye atlama
+## Category-jaJP: クエストとレベル上げ
+## Category-arSA: المهام ورفع المستوى
+## Category-hiIN: क्वेस्ट और लेवलिंग
+## Category-thTH: เควสและการเลเวล
+## Category-viVN: Nhiệm vụ và lên cấp
+
+## Notes: |cFF33CCFFTurns the experience bar into a chocolate bar: each division is a portion.|r
+## Notes-deDE: |cFF33CCFFVerwandelt die Erfahrungsleiste in eine Tafel Schokolade: Jede Unterteilung ist ein Stück.|r
+## Notes-esES: |cFF33CCFFConvierte la barra de experiencia en una tableta de chocolate: cada división es una porción.|r
+## Notes-esMX: |cFF33CCFFConvierte la barra de experiencia en una barra de chocolate: cada división es una porción.|r
+## Notes-frFR: |cFF33CCFFTransforme la barre d'expérience en tablette de chocolat : chaque division est un carré.|r
+## Notes-itIT: |cFF33CCFFTrasforma la barra dell'esperienza in una tavoletta di cioccolato: ogni divisione è un quadretto.|r
+## Notes-koKR: |cFF33CCFF경험치 바를 초콜릿 바로 바꿉니다. 각 구분선이 한 조각이 됩니다.|r
+## Notes-ptBR: |cFF33CCFFTransforma a barra de experiência em uma barra de chocolate: cada divisão é um pedaço.|r
+## Notes-ruRU: |cFF33CCFFПревращает полосу опыта в плитку шоколада: каждое деление — это долька.|r
+## Notes-zhCN: |cFF33CCFF把经验条变成一块巧克力：每个分隔就是一小块。|r
+## Notes-zhTW: |cFF33CCFF把經驗條變成一塊巧克力：每個分隔就是一小塊。|r
+## Notes-plPL: |cFF33CCFFZamienia pasek doświadczenia w tabliczkę czekolady: każda podziałka to jedna kostka.|r
+## Notes-svSE: |cFF33CCFFGör om erfarenhetsmätaren till en chokladkaka: varje avdelning är en bit.|r
+## Notes-noNO: |cFF33CCFFGjør erfaringslinjen om til en sjokoladeplate: hver inndeling er en bit.|r
+## Notes-csCZ: |cFF33CCFFPromění ukazatel zkušeností v tabulku čokolády: každý dílek je jeden čtvereček.|r
+## Notes-nlNL: |cFF33CCFFVerandert de ervaringsbalk in een reep chocolade: elke verdeling is een stukje.|r
+## Notes-roRO: |cFF33CCFFTransformă bara de experiență într-o tabletă de ciocolată: fiecare diviziune este o porție.|r
+## Notes-huHU: |cFF33CCFFA tapasztalatsávot csokoládétáblává alakítja: minden osztás egy kocka.|r
+## Notes-elGR: |cFF33CCFFΜετατρέπει τη μπάρα εμπειρίας σε πλάκα σοκολάτας: κάθε διαίρεση είναι ένα κομμάτι.|r
+## Notes-ukUA: |cFF33CCFFПеретворює смугу досвіду на плитку шоколаду: кожна поділка — це часточка.|r
+## Notes-daDK: |cFF33CCFFGør erfaringsbjælken til en chokoladeplade: hver inddeling er et stykke.|r
+## Notes-fiFI: |cFF33CCFFMuuttaa kokemuspalkin suklaalevyksi: jokainen jakso on yksi pala.|r
+## Notes-skSK: |cFF33CCFFPremení ukazovateľ skúseností na tabuľku čokolády: každý dielik je jeden štvorček.|r
+## Notes-bgBG: |cFF33CCFFПревръща лентата за опит в шоколад: всяко деление е едно парче.|r
+## Notes-hrHR: |cFF33CCFFPretvara traku iskustva u čokoladu: svaka podjela je jedna kockica.|r
+## Notes-srRS: |cFF33CCFFPretvara traku iskustva u čokoladu: svaka podela je jedna kockica.|r
+## Notes-slSI: |cFF33CCFFVrstico izkušenj spremeni v tablico čokolade: vsak razdelek je ena kocka.|r
+## Notes-ltLT: |cFF33CCFFPatirties juostą paverčia šokolado plytele: kiekviena padala yra vienas gabalėlis.|r
+## Notes-lvLV: |cFF33CCFFPārvērš pieredzes joslu šokolādes tāfelītē: katrs iedalījums ir viens gabaliņš.|r
+## Notes-etEE: |cFF33CCFFMuudab kogemusriba šokolaadiplaadiks: iga jaotis on üks tükk.|r
+## Notes-idID: |cFF33CCFFMengubah bilah pengalaman menjadi batang cokelat: setiap pembagian adalah satu potong.|r
+## Notes-msMY: |cFF33CCFFMenukar bar pengalaman menjadi bar coklat: setiap bahagian ialah satu potongan.|r
+## Notes-faIR: |cFF33CCFFنوار تجربه را به تخته شکلات تبدیل می‌کند: هر تقسیم یک تکه است.|r
+## Notes-heIL: |cFF33CCFFהופך את סרגל הניסיון לחפיסת שוקולד: כל חלוקה היא קובייה אחת.|r
+## Notes-bnBD: |cFF33CCFFঅভিজ্ঞতা বারকে চকলেট বারে বদলে দেয়: প্রতিটি ভাগ একটি টুকরো।|r
+## Notes-urPK: |cFF33CCFFتجربے کی بار کو چاکلیٹ بار میں بدل دیتا ہے: ہر تقسیم ایک ٹکڑا ہے۔|r
+## Notes-taIN: |cFF33CCFFஅனுபவப் பட்டியை சாக்லேட் பட்டையாக மாற்றுகிறது: ஒவ்வொரு பிரிவும் ஒரு துண்டு.|r
+## Notes-teIN: |cFF33CCFFఅనుభవ పట్టీని చాక్లెట్ బార్‌గా మారుస్తుంది: ప్రతి విభాగం ఒక ముక్క.|r
+## Notes-trTR: |cFF33CCFFTecrübe çubuğunu çikolata tabletine dönüştürür: her bölme bir parçadır.|r
+## Notes-jaJP: |cFF33CCFF経験値バーを板チョコに変えます。区切りごとに1ピースです。|r
+## Notes-arSA: |cFF33CCFFيحوّل شريط الخبرة إلى لوح شوكولاتة: كل قسم هو قطعة واحدة.|r
+## Notes-hiIN: |cFF33CCFFअनुभव बार को चॉकलेट बार में बदल देता है: हर विभाजन एक टुकड़ा है।|r
+## Notes-thTH: |cFF33CCFFเปลี่ยนแถบประสบการณ์ให้เป็นแท่งช็อกโกแลต: แต่ละช่องคือหนึ่งชิ้น|r
+## Notes-viVN: |cFF33CCFFBiến thanh kinh nghiệm thành thanh sô-cô-la: mỗi vạch chia là một miếng.|r
+
+## SavedVariables: ChocolateXPBarDB
+
+Core/Compat.lua
+Locales/enUS.lua
+Locales/esES.lua
+Locales/deDE.lua
+Locales/frFR.lua
+Locales/itIT.lua
+Locales/ptBR.lua
+Locales/ruRU.lua
+Locales/koKR.lua
+Locales/zhCN.lua
+Locales/zhTW.lua
+Locales/plPL.lua
+Locales/svSE.lua
+Locales/noNO.lua
+Locales/trTR.lua
+Locales/jaJP.lua
+Locales/arSA.lua
+Locales/hiIN.lua
+Locales/thTH.lua
+Locales/viVN.lua
+Locales/csCZ.lua
+Core/ChocolateXPBar.lua
+UI/About.lua
+UI/Options.lua
