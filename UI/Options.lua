@@ -129,3 +129,9 @@ function ns.CreateOptions()
     SLASH_CHOCOLATEXPBAR1 = "/cxb"
     SlashCmdList.CHOCOLATEXPBAR = ns.OpenConfig
 end
+
+-- Menu de addons del minimapa (## AddonCompartmentFunc del .toc): lo mismo que el comando
+function ChocolateXPBar_OnAddonCompartmentClick()
+    local open = SlashCmdList and SlashCmdList.CHOCOLATEXPBAR
+    if open then open("") end
+end

@@ -95,6 +95,12 @@
 ## Notes-viVN: |cFF33CCFFBiến thanh kinh nghiệm thành thanh sô-cô-la: mỗi vạch chia là một miếng.|r
 
 ## SavedVariables: ChocolateXPBarDB
+## X-Curse-Project-ID: 1788942
+## X-License: MIT
+## X-Copyright: Copyright (c) 2025-2026 Pirson
+## X-Website: https://github.com/Pirson-s-Addons/ChocolateXPBar
+## X-Localizations: enUS, esES, esMX, deDE, frFR, itIT, ptBR, ruRU, koKR, zhCN, zhTW, plPL, svSE, noNO, trTR, jaJP, arSA, hiIN, thTH, viVN, csCZ
+## AddonCompartmentFunc: ChocolateXPBar_OnAddonCompartmentClick
 
 Core/Compat.lua
 Locales/enUS.lua
