@@ -1,5 +1,5 @@
 ## Interface: 16001
-## Version: 1.00
+## Version: 1.01
 ## Author: Pirson
 ## IconTexture: Interface\AddOns\ChocolateXPBar\img\logo_cxb_icon
 ## Title: |cffd597ffChocolate XP Bar|r

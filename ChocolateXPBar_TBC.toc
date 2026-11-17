@@ -1,5 +1,5 @@
 ## Interface: 20400, 20501, 20502, 20503, 20504, 20505, 20506
-## Version: 1.00
+## Version: 1.01
 ## Author: Pirson
 ## IconTexture: Interface\AddOns\ChocolateXPBar\img\logo_cxb_icon
 ## Title: |cffd597ffChocolate XP Bar|r
