@@ -2,7 +2,10 @@
 
 <p align="center"><b>English</b> · <a href="README.es.md">Español</a></p>
 
-<p align="center"><a href="https://www.curseforge.com/wow/addons/chocolate-xp-bar"><b>CurseForge</b></a></p>
+<p align="center">
+<a href="https://www.curseforge.com/wow/addons/chocolate-xp-bar"><b>CurseForge</b></a> ·
+<a href="https://github.com/Pirson-s-Addons/ChocolateXPBar/releases/latest"><b>Download</b></a>
+</p>
 
 ## Screenshots
 
