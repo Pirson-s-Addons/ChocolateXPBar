@@ -1,5 +1,5 @@
 ## Interface: 70300
-## Version: 1.01
+## Version: 1.02
 ## Author: Pirson
 ## Title: |TInterface\AddOns\ChocolateXPBar\img\logo_cxb_icon:16:16|t |cffd597ffChocolate XP Bar|r
 
