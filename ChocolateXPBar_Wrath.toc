@@ -97,6 +97,7 @@
 
 ## SavedVariables: ChocolateXPBarDB
 ## X-Curse-Project-ID: 1788942
+## X-Wago-ID: ZKxO836k
 ## X-License: MIT
 ## X-Copyright: Copyright (c) 2025-2026 Pirson
 ## X-Website: https://github.com/Pirson-s-Addons/ChocolateXPBar
